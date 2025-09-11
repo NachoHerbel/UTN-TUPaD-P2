@@ -12,8 +12,8 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 📌 **Estructura del repositorio:**
 -	Cada trabajo está organizado en carpetas individuales.
 -	Dentro de cada carpeta se encuentra el proyecto con sus subcarpetas:
-    o	src/ → contiene el código fuente en Java.
-    o	build/ y nbproject/ → son generadas automáticamente por NetBeans.
+    -	src/ → contiene el código fuente en Java.
+    -	build/ y nbproject/ → son generadas automáticamente por NetBeans.
 -	Cada ejercicio del práctico está implementado en una clase Java independiente (Ejemplo: ejercicio1.java, ejercicio2.java, etc.).
 -	Los archivos incluyen comentarios, buenas prácticas y estructura adecuada. 
 -	Se busca mantener un código limpio, ordenado y bien documentado.
